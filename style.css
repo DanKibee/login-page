@@ -1,0 +1,18 @@
+.login_page{
+display:flex;
+flex-direction: column;
+padding-left: 2rem;
+padding-top: 2rem;
+padding-right: 2rem;
+align-items: center;
+background-color: grey;
+border:solid black 2px;
+border-radius:3% ;
+}
+
+input{
+   margin-bottom:1rem; 
+}
+.login{
+  margin-top: 1rem;  
+}
